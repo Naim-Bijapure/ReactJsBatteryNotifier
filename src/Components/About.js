@@ -9,7 +9,7 @@ function About() {
         <section>
         <div className="containerContent" >
           <p>Battery notifying app
-            <span> by - <a href='https://github.com/NileshSP/ReactJsBatteryNotifier'>github.com/NileshSP</a></span>
+            <span> by - <a href='https://github.com/Naim-Bijapure/ReactJsBatteryNotifier'>github.com/Naim-Bijapure</a></span>
           </p>
         </div>
         </section>
